@@ -41,5 +41,5 @@ contadores[3].textContent = calculaTempo(tempoObjetivo4);
     minutos %= 60;
     horas %= 24;
 
-    return (dias + " dias; " + horas + " horas; " + minutos + " minutos; " + segundos + " segundos; 👍")
+    return (dias + " dias/ " + horas + " horas/ " + minutos + " minutos/ " + segundos + " segundos; 👍")
   }

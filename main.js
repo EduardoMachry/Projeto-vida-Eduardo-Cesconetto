@@ -55,3 +55,4 @@ contadores[3].textContent = calculaTempo(tempoObjetivo4);
     setInterval(atualizaCronometro, 1000 );
   }
   comecaCronometro();
+  

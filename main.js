@@ -48,6 +48,7 @@ if (tempoFinal > 0){
   } else{
     return "Prazo FInalizado"
   }
+}
 
   function atualizaCronometro(){
     for (let i = 0; i < contadores.length; i++){
